@@ -1,7 +1,7 @@
-[![MasterHead](https://tenor.com/view/anime-aesthetic-blue-gif-22834691)]
+[![MasterHead](https://media.tenor.com/H549T-Zxtg0AAAAC/anime-aesthetic.gif)]
 <h1 align="center">Hi 👋, I'm Archit Ojha</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="Nature" width="400" src="https://tenor.com/view/anime-aesthetic-blue-gif-22834691">
+<img align="right" alt="Nature" width="400" src="https://media.tenor.com/H549T-Zxtg0AAAAC/anime-aesthetic.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit381" alt="archit381" /></a> </p>
 
