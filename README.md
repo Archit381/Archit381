@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Archit Ojha</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Nature" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
