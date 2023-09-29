@@ -1,5 +1,7 @@
+[![MasterHead](https://tenor.com/bHYvD.gif)]
 <h1 align="center">Hi 👋, I'm Archit Ojha</h1>
 <h3 align="center">A passionate learner from India</h3>
+<img align="right" alt="Nature" width="400" src="https://tenor.com/bHYvD.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit381" alt="archit381" /></a> </p>
 
@@ -18,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Archit381&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="archit381" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Archit381&theme=radical&hide_border=true" alt="archit381" /></p>
 
