@@ -1,7 +1,7 @@
-[![MasterHead](https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47x4bh6e6cvl9ew8ctpup3n1f3y0nvugcs9wrz6vvi&ep=v1_gifs_related&rid=giphy.gif&ct=g)]
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Archit Ojha</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="Nature" width="400" src="https://media.tenor.com/H549T-Zxtg0AAAAC/anime-aesthetic.gif">
+<img align="right" alt="Nature" width="400" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47x4bh6e6cvl9ew8ctpup3n1f3y0nvugcs9wrz6vvi&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit381" alt="archit381" /></a> </p>
 
