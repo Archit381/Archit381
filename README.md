@@ -1,4 +1,4 @@
-[![MasterHead]()]
+[![MasterHead](https://cutewallpaper.org/25/anime-aesthetic-wallpaper-gif/cute-aesthetic-wallpapers-gif.gif)]
 <h1 align="center">Hi 👋, I'm Archit Ojha</h1>
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Nature" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
