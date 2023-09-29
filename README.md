@@ -18,5 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Archit381&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="archit381" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Archit381&theme=radical&hide_border=true" alt="archit381" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Archit381&theme=radical&hide_border=true)<br/>
 
