@@ -3,8 +3,6 @@
 <h3 align="center">A passionate learner from India</h3>
 <img align="right" alt="Nature" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archit381" alt="archit381" /></a> </p>
-
 - 📫 How to reach me **architojha420@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
