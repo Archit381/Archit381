@@ -1,7 +1,8 @@
 ![MasterHead](https://31.media.tumblr.com/9664f1744a44dcfcb14e167d74c7446f/tumblr_mqqr54em9B1qgfxmoo1_1280.gif)
-<h1 align="center">Hi 👋, I'm Archit Ojha</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h1 align="center" style="color: white;">Hi 👋, I'm Archit Ojha</h1>
+<h3 align="center" style="color: white;">A passionate learner from India</h3>
 <img align="right" alt="Nature" width="300" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+
 
 # 💫 About Me
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
