@@ -1,6 +1,3 @@
-![MasterHead](https://31.media.tumblr.com/9664f1744a44dcfcb14e167d74c7446f/tumblr_mqqr54em9B1qgfxmoo1_1280.gif)
-
-
 # 💫 About Me
 🔭 I’m currently working on improving my development skills<br>🌱 I’m currently building some major projects for my university <br>⚡ I would love to collaborate on any AI/ML project
 
