@@ -1,8 +1,3 @@
-# 💫 About Me
-🔭 I’m currently working on improving my development skills<br>🌱 I’m currently building some major projects for my university <br>⚡ I would love to collaborate on any AI/ML project
-
-<br></br>
-
 # 🌐 Connect with me
 
 <p align="left">
