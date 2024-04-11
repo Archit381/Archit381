@@ -48,6 +48,4 @@ I am currently exploring domains like Natural Language Processing and Computer V
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Archit381&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="archit381" /></p>
 
 
-<img src="https://github.com/Archit381/Archit381/blob/main/00fcb7c29fea93a71b0215f2449f138e.gif" width="1000"/>
-
 
