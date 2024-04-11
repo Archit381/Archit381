@@ -1,5 +1,5 @@
 
-<h1 align="left"> Hi there <img src=" https://github.com/Archit381/Archit381/blob/main/Handshake.gif" alt = "hi" width="40px" height="40px">, I'm Archit</h1>
+<h1 align="left"> Hi there <img src=" https://github.com/Archit381/Archit381/blob/main/Handshake.gif" alt = "" >, I'm Archit</h1>
 
 <br />
 
