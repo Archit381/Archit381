@@ -1,3 +1,6 @@
+
+![](https://github.com/Archit381/Archit381/blob/main/Jitter-Pink-perfect-loop-cubes.gif)
+
 # 🌐 Connect with me
 
 <p align="left">
