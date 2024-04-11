@@ -1,5 +1,6 @@
-
+<div align="center">
 ![](https://github.com/Archit381/Archit381/blob/main/2014_10_14_talkingfeelsfunny.gif)
+</div>
 
 # 🌐 Connect with me
 
