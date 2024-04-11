@@ -17,7 +17,9 @@
 
 <br></br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Archit381&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Archit381&hide_border=true&theme=radical" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit381&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="archit381" /></p>
 
