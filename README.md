@@ -1,4 +1,4 @@
-<img align='center' src='https://github.com/Archit381/Archit381/blob/main/00fcb7c29fea93a71b0215f2449f138e.gif' width='900"'>
+<img align="center" src='https://github.com/Archit381/Archit381/blob/main/00fcb7c29fea93a71b0215f2449f138e.gif'>
 
 
 # 🌐 Connect with me
