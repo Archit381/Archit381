@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Archit381/Archit381/blob/main/Jitter-Pink-perfect-loop-cubes.gif" height="300" width="500" >
+<img align="center" src="https://github.com/Archit381/Archit381/blob/main/Jitter-Pink-perfect-loop-cubes.gif"  >
 
 
 
