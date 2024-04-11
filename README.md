@@ -24,7 +24,7 @@ I am currently exploring domains like Natural Language Processing and Computer V
 
 
 <div align="center">
-  <img src="https://github.com/Archit381/Archit381/blob/main/2014_10_14_talkingfeelsfunny.gif" />
+  <img src="https://github.com/Archit381/Archit381/blob/main/2014_10_14_talkingfeelsfunny.gif" width="1000" />
 </div>
 
 
