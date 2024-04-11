@@ -1,5 +1,5 @@
 
-![](https://github.com/Archit381/Archit381/blob/main/Jitter-Pink-perfect-loop-cubes.gif)
+![](https://github.com/Archit381/Archit381/blob/main/00fcb7c29fea93a71b0215f2449f138e.gif)
 
 # 🌐 Connect with me
 
