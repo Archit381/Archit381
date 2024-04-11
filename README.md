@@ -1,7 +1,6 @@
 
-# Hi there, I'm Archit 
+<h1 align="left"> Hi there <img src=" https://github.com/Archit381/Archit381/blob/main/Handshake.gif" alt = "hi" width="40px" height="40px">, I'm Archit</h1>
 
-  
 <br />
 
 I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and nonw have transitioned to learning more about machine learning.
@@ -21,12 +20,6 @@ I am currently exploring domains like Natural Language Processing and Computer V
 <br />
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-<div align="center">
-  <img src="https://github.com/Archit381/Archit381/blob/main/2014_10_14_talkingfeelsfunny.gif" width="1000" />
-</div>
-
 
 # 🌐 Connect with me
 
