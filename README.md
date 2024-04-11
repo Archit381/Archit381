@@ -1,26 +1,27 @@
 
-# Hi there, I'm Archit alt="" width="30">
-<a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
-<a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
+# Hi there, I'm Archit 
+
   
 <br />
 
-I am a Dev & UX Accessibility Specialist at <a href="https://atos.net/en/">Atos</a>. I love to **learn** about new technology, **connect** with people around the world and **help** others get into tech as well.
+I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and nonw have transitioned to learning more about machine learning.
+<br/>
 
-I am <a href="https://developers.google.com/community/experts">Google Developer Expert</a> for Web Development.
+Some of my interest in AI/ML are:
+- Natural Language Processing
+- Computer Vision
 
-I am the founder of <a href="https://accessibilityfirst.at/">Accessibility First</a>, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
+I would love to collaborate with on any AI/ML project that piques my interest
 
-**Some doors have to be closed to make room for something new.**
+I am also a Full Stack Developer Intern at <a href="https://www.foodfuturefoundation.org/">Food Future Foundation</a>
 
-Until Spring 2024
-- I was an Open Source Maintainer and founde of <a href="https://www.yuriscodingclub.com/">YurisCodingClub</a>, an inclusive open source community. The projects were part of <a href="https://hacktoberfest.com/">Hacktoberfest</a> to help CodeNewbies get into open source and tech from an early stage.
-- I was a mentor and CoC responder by 💟 at <a href="https://the-collab-lab.codes/">The Collab Lab</a> since 2021.
-- I was regularly writing blog posts on DEV.to
-  
+<br />
+
+## Achievements
+- 🏆 Winner - Industry Hackathon 2024, Bennett Univeristy
+- 🏆 #3 - Fork-IT Hackathon 2023, IIIT-Delhi
+- 🏆 #7 - Smart India Hackathon, University Level
+
 <br />
 
 
