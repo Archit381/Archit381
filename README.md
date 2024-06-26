@@ -34,7 +34,7 @@ I am currently exploring domains like Natural Language Processing and Computer V
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,androidstudio,nextjs,html,css,tailwind,tensorflow,selenium,opencv,fastapi,docker," />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,supabase,firebase,kotlin,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,supabase,firebase,kotlin,mysql,swift" /><br>
 </div>
 
 <br></br>
