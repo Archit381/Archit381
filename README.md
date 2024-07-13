@@ -12,7 +12,7 @@ I am currently exploring domains like Natural Language Processing and Computer V
 <br />
 
 ## Achievements
-- 🏆 Winner - Industry Hackathon 2024, Bennett Univeristy
+- 🏆 Winner - Industry Hackathon 2024, Bennett University
 - 🏆 #3 - Fork-IT Hackathon 2023, IIIT-Delhi
 - 🏆 #7 - Smart India Hackathon, University Level
 
