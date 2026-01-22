@@ -1,24 +1,50 @@
-<h1 align="left"> Hi there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gifs/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Archit</h1>
+# ⚡ Hey there, I'm Archit Ojha 
 
+**`AI Engineer & Researcher | AI Engineer @ Fincepta, Ex. Computer Vision Engineer @ Samsung Display`**
+
+## 🏄‍♂️ About Me
+I'm Archit, an AI engineer and researcher turning complex fintech challenges into scalable, LLM-powered automations. I deliver end-to-end production-ready solutions across the full stack—from POC to deployment.
+
+On the research frontier, I spend my curiosity on why LLMs suck at real-world reasoning (causality) and how to fix it with some representation learning hacks. I spend most of my time reading research papers about anything AI (probably doing that right now).
+
+p.s. launching something exciting very soon.
 <br />
 
-I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and nonw have transitioned to learning more about machine learning.
+## 💻 What I Do
+
+- **AI Product Development**
+- **AI Research**
+- **End-to-end solution development**
+
+## 💼 Experience
+
+### **AI Engineer @ Fincepta**
+**Fincepta, India · Hybrid** 
+
+### **AI Intern @ Resilient Moment (aka Joyment now)**
+**Resilient Moment, Maryland, USA · Remote** 
+
+### **Computer Vision Engineer @ Samsung Display**
+**Samsung Display Noida, India · On-Site**  
+
+### **Co-founder @ Mobilon - Student club**
+**Mobilon - App Development Club, Greater Noida, India · On-site**  
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,go,typescript,cpp,java,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=fastapi,aws,postgres,docker,selenium,nextjs,react,androidstudio" /><img src="https://go-skill-icons.vercel.app/api/icons?i=git,neo4j"/><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,jax,huggingface,llamaindex"/>
+</div>
 
-Currently working as Computer Vision Intern for  <a href="https://www.linkedin.com/company/samsung-display/mycompany/">Samsungs Display Noida</a>
-
-
+## 🏆 Achievements
+- Winner - Industry Hackathon 2024, Bennett University
+- #3 - Fork-IT Hackathon 2023, IIIT-Delhi
+- #7 - Smart India Hackathon, University Level
 
 <br />
 
-## Achievements
-- 🏆 Winner - Industry Hackathon 2024, Bennett University
-- 🏆 #3 - Fork-IT Hackathon 2023, IIIT-Delhi
-- 🏆 #7 - Smart India Hackathon, University Level
-
-<br />
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 # 🌐 Connect with me
 
@@ -30,12 +56,7 @@ Currently working as Computer Vision Intern for  <a href="https://www.linkedin.c
 <br></br>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,androidstudio,nextjs,html,css,tailwind,tensorflow,selenium,opencv,fastapi,docker," />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,supabase,firebase,kotlin,mysql,swift" /><br>
-</div>
+
 
 <br></br>
 
