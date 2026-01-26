@@ -18,7 +18,7 @@ p.s. launching something exciting very soon.
 
 ## 💼 Experience
 
-### **AI Engineer @ Fincepta**
+### **AI Intern @ Fincepta**
 **Fincepta, India · Hybrid** 
 
 ### **AI Intern @ Resilient Moment (aka Joyment now)**
